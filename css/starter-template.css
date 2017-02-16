@@ -29,3 +29,13 @@ iframe {
     width: 100%;
     height: 100%
 }
+
+.bg-inverse {
+    /*background-color: rgba(0, 0, 0, 0.1)!important;*/
+}
+
+nav {
+    margin: 0 auto;
+    width: 1006px;
+
+}
